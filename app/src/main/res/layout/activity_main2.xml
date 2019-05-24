@@ -4,15 +4,6 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity">
-
-    <de.hdodenhof.circleimageview.CircleImageView
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:src="@drawable/a"
-        android:alpha="0.8"
-        app:civ_border_color="@color/colorAccent"
-        app:civ_border_width="2dp"
-        android:id="@+id/circleImageView"/>
+    tools:context=".Main2Activity">
 
 </android.support.constraint.ConstraintLayout>
